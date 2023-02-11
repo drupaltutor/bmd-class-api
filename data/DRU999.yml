@@ -1,0 +1,22 @@
+id: DRU999
+name: Advanced Drupal Development
+teacher:
+  first_name: Wayne
+  last_name: Eaker
+  login_id: wayne
+roster:
+  - first_name: Nora
+    last_name: Rodgers
+    login_id: norah
+  - first_name: Sami
+    last_name: Proctor
+    login_id: samip
+  - first_name: Darren
+    last_name: Booth
+    login_id: darrenb
+  - first_name: Nevaeh
+    last_name: Trujillo
+    login_id: nevaeht
+  - first_name: Milly
+    last_name: Tucker
+    login_id: millt

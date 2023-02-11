@@ -1,0 +1,22 @@
+id: ABC123
+name: Beginning Module Development
+teacher:
+  first_name: Wayne
+  last_name: Eaker
+  login_id: wayne
+roster:
+  - first_name: Ted
+    last_name: Hammond
+    login_id: tedh
+  - first_name: Rachel
+    last_name: Rivas
+    login_id: rachelr
+  - first_name: Cassandra
+    last_name: Wood
+    login_id: cassanw
+  - first_name: Ethan
+    last_name: Bonilla
+    login_id: ethanb
+  - first_name: Violet
+    last_name: Riggs
+    login_id: violetr

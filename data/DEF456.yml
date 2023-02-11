@@ -1,0 +1,22 @@
+id: DEF456
+name: Intermediate Module Development
+teacher:
+  first_name: Wayne
+  last_name: Eaker
+  login_id: wayne
+roster:
+  - first_name: Isaiah
+    last_name: Downs
+    login_id: isaiahd
+  - first_name: Rachel
+    last_name: Rivas
+    login_id: rachelr
+  - first_name: Sylvia
+    last_name: Carr
+    login_id: sylviac
+  - first_name: Ethan
+    last_name: Bonilla
+    login_id: ethanb
+  - first_name: Pippa
+    last_name: Noble
+    login_id: pippan
